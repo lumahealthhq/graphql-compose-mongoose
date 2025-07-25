@@ -4,14 +4,14 @@
   "description": "Plugin for `graphql-compose` which derive a graphql types from a mongoose model.",
   "license": "MIT",
   "files": [
-    "lib",
+    "src",
     "node8",
     "es",
     "mjs"
   ],
-  "main": "lib/index.js",
-  "module": "mjs/index.mjs",
-  "types": "lib/index.d.ts",
+  "main": "src/index.js",
+  "module": "src/index.mjs",
+  "types": "src/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/graphql-compose/graphql-compose-mongoose.git"
