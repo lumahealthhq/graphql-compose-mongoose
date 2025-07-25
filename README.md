@@ -1,4 +1,8 @@
-# graphql-compose-mongoose
+# Luma Docs
+Check [PACKAGING](./PACKAGING.md) to understand how to generate tags and consume this fork if we haven't yet killed GrahpQL
+
+
+# [ORIGINAL DOCS] graphql-compose-mongoose
 
 [![travis build](https://img.shields.io/travis/graphql-compose/graphql-compose-mongoose.svg)](https://travis-ci.org/graphql-compose/graphql-compose-mongoose)
 [![codecov coverage](https://img.shields.io/codecov/c/github/graphql-compose/graphql-compose-mongoose.svg)](https://codecov.io/github/graphql-compose/graphql-compose-mongoose)
